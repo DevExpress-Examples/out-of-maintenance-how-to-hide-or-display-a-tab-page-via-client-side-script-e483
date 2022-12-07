@@ -38,7 +38,7 @@ Namespace ShowHidePageClientSide
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxPageControl1 As Global.DevExpress.Web.ASPxTabControl.ASPxPageControl
+		Protected ASPxPageControl1 As Global.DevExpress.Web.ASPxPageControl
 
 		''' <summary>
 		''' ASPxCheckBox1 control.
@@ -47,7 +47,7 @@ Namespace ShowHidePageClientSide
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxCheckBox1 As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+		Protected ASPxCheckBox1 As Global.DevExpress.Web.ASPxCheckBox
 
 		''' <summary>
 		''' ASPxLabel1 control.
@@ -56,6 +56,6 @@ Namespace ShowHidePageClientSide
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxLabel
 	End Class
 End Namespace
